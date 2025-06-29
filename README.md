@@ -1,6 +1,6 @@
 # Java Core Practice
 
-This repository contains my structured practice of core Java concepts, with example programs and notes.
+This repository contains my structured practice of core Java concepts, with example programs.
 
 ## ✅ Topics Covered
 
